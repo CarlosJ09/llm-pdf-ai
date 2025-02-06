@@ -1,0 +1,4 @@
+PINECONE_DB_API_KEY="pcsk_751LHD_ANdL1FqAMFksUDcGZBfLxvw6aPuoc5P4ymCxZhaGoz1g2ywy4Lpb5RkRTsrGHAa"
+PINECONE_DB_INDEX_NAME="domiai"
+PINECONE_DB_INDEX_HOST="domiai-9f3885b.svc.aped-4627-b74a.pinecone.io"
+PINECONE_DB_EMBEDDING_MODEL="multilingual-e5-large"
